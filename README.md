@@ -1,6 +1,6 @@
 # ProjetDevWeb2_MMR
 ProjetDevWeb 2 Site de réservation de chambre
-\nParticipant :
+Participant :
 Boudou Mathias
 Cimas Rodrigue
 Bourrier Maxime
